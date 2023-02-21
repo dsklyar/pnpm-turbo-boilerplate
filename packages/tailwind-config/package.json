@@ -1,0 +1,12 @@
+{
+  "name": "tailwind-config",
+  "version": "0.0.1",
+  "author": {
+    "name": "Daniel Sklyar"
+  },
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
